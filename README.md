@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This is just the first of hopefully many Frontend Mentor projects. I think it's a super useful platform that I expect I'll learn quite a lot from. In this particular project I didn't really tap into anything particularly new, but I can say I've not used styled-components very much at all and it was good to get the practice of setting it up & getting more accustomed to the (honestly pretty easy) syntax.
+This is just the first of hopefully many Frontend Mentor projects. I think it's a super useful platform that I expect I'll learn quite a lot from. In this particular project I didn't really tap into anything especially new, but I can say I've not used styled-components very much at all and it was good to get the practice of setting it up & getting more accustomed to the (honestly pretty easy) syntax.
 
 ## Author
 
